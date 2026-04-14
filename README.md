@@ -1,4 +1,4 @@
-Kibbie
+Kibbie (base code written by chat)
 
 A Virtual LCD Keyboard + Tamagotchi IME System for Android
 
